@@ -1,0 +1,14 @@
+[
+    {
+        "appointment_id": "A1",
+        "doctor_id": "D1",
+        "patient_id": "P1",
+        "date": "2024-12-21"
+    },
+    {
+        "appointment_id": "A2",
+        "doctor_id": "D1",
+        "patient_id": "P1",
+        "date": "2024-12-21"
+    }
+]
